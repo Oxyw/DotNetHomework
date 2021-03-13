@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.exe
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.deps.json
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.runtimeconfig.json
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.dll
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ref\ToeplitzMatrix.dll
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\bin\Debug\net5.0\ToeplitzMatrix.pdb
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.dll
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ref\ToeplitzMatrix.dll
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.pdb
+C:\Users\hp\Desktop\Homework2\ToeplitzMatrix\obj\Debug\net5.0\ToeplitzMatrix.genruntimeconfig.cache

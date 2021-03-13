@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.exe
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.deps.json
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.runtimeconfig.json
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.dll
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\ref\SieveOfEratosthenes.dll
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\bin\Debug\net5.0\SieveOfEratosthenes.pdb
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.dll
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\ref\SieveOfEratosthenes.dll
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.pdb
+C:\Users\hp\Desktop\Homework2\SieveOfEratosthenes\obj\Debug\net5.0\SieveOfEratosthenes.genruntimeconfig.cache
