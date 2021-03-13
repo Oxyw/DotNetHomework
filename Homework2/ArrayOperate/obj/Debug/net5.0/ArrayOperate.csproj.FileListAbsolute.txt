@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.exe
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.deps.json
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.runtimeconfig.json
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.dll
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ref\ArrayOperate.dll
+C:\Users\hp\Desktop\Homework2\ArrayOperate\bin\Debug\net5.0\ArrayOperate.pdb
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.dll
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ref\ArrayOperate.dll
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.pdb
+C:\Users\hp\Desktop\Homework2\ArrayOperate\obj\Debug\net5.0\ArrayOperate.genruntimeconfig.cache
