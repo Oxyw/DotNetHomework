@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.exe
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.deps.json
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.json
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.dll
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\ref\Shapes.dll
+C:\Users\hp\Desktop\Homework3\Shapes\bin\Debug\net5.0\Shapes.pdb
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.dll
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\ref\Shapes.dll
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.pdb
+C:\Users\hp\Desktop\Homework3\Shapes\obj\Debug\net5.0\Shapes.genruntimeconfig.cache
