@@ -8,7 +8,16 @@ namespace List
         {
             int sum = 0, max, min, n = 0;
             Console.Write("请输入链表元素个数：");
-            n = int.Parse(Console.ReadLine());
+            try
+            {
+                n = int.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("解析错误" + e.Message);
+            }
+            //n = int.Parse(Console.ReadLine());
+            
             Random rd = new Random();
             GenericList<int> list = new GenericList<int>();
             Console.WriteLine("正在创建随机链表...");
