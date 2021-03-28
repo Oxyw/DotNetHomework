@@ -1,0 +1,16 @@
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.exe
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.deps.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.runtimeconfig.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.runtimeconfig.dev.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\ref\Alarm.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\bin\Debug\net5.0\Alarm.pdb
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.AssemblyInfoInputs.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.AssemblyInfo.cs
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.csproj.CoreCompileInputs.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\ref\Alarm.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.pdb
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.genruntimeconfig.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\Alarm\obj\Debug\net5.0\Alarm.csprojAssemblyReference.cache

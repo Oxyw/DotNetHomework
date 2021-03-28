@@ -1,0 +1,16 @@
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.exe
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.deps.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.runtimeconfig.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\ref\List.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\bin\Debug\net5.0\List.pdb
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.csprojAssemblyReference.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\ref\List.dll
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.pdb
+D:\大学\课件及作业\软件构造基础\作业\Homework4\List\obj\Debug\net5.0\List.genruntimeconfig.cache
