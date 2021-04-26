@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+C:\Users\hp\Desktop\Homework8\OrderForm\bin\Debug\OrderForm.exe
+C:\Users\hp\Desktop\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.Form1.resources
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.exe
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.pdb
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.Form2.resources
+C:\Users\hp\Desktop\Homework8\OrderForm\obj\Debug\OrderForm.Form3.resources
