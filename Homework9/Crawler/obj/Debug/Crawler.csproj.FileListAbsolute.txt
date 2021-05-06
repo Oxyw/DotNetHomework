@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Homework9\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\hp\Desktop\Homework9\Crawler\bin\Debug\Crawler.exe
+C:\Users\hp\Desktop\Homework9\Crawler\bin\Debug\Crawler.pdb
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.Form1.resources
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.exe
+C:\Users\hp\Desktop\Homework9\Crawler\obj\Debug\Crawler.pdb
